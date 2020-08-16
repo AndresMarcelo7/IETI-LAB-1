@@ -8,7 +8,10 @@ export class TodoList extends React.Component {
             <Todo text={todo.text}
              priority={todo.priority}
              dueDate={todo.dueDate}/>
-        </li>);
+        </li>
+        
+        );
+        
     return (<ul>{listItems}</ul>);
   }
 }
