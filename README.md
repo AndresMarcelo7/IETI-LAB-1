@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Laboratorio #1 IETI - Andrés Felipe Marcelo Rubiano.
+
+If you clone this repository, please  first run:
+``` npm install ```
+
 ## Available Scripts
 
 In the project directory, you can run:

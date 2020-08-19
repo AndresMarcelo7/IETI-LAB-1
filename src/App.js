@@ -30,6 +30,7 @@ class App extends React.Component {
           />
           <input
             name="aPriority"
+			type="number" 
             onChange={this.handleChange}
             value={this.state.aPriority}
           />
